@@ -1,4 +1,4 @@
-prompt("If you on mobile double tap on game screen. It will auto set the game window");
+alert("If you on mobile📱 Double tap on game screen📲. It will auto scale the game window");
 
 var gamestate ;
 
